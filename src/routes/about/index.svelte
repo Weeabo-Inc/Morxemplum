@@ -1,5 +1,7 @@
+
 <svelte:head>
-	<script src="https://kit.fontawesome.com/6fce24faf3.js" crossorigin="anonymous"></script>
+    <title>Morxemplum - About Me</title>
+	<script src="https://kit.fontawesome.com/6fce24faf3.js" defer crossorigin="anonymous"></script>
 </svelte:head>
 <div class="mt-12 container mx-auto w-3/4">
     <div
