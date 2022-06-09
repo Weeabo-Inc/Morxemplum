@@ -1,3 +1,8 @@
+<svelte:head>
+    <title>
+        Morxemplum - Main
+    </title>
+</svelte:head>
 <div class="h-screen grid-cols-2 md:grid">
 	<div class="relative">
 		<a href="/career" class="group relative">

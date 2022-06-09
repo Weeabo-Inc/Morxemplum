@@ -1,5 +1,7 @@
+
 <svelte:head>
-	<script src="https://kit.fontawesome.com/6fce24faf3.js" crossorigin="anonymous"></script>
+    <title>Morxemplum - About Me</title>
+	<script src="https://kit.fontawesome.com/6fce24faf3.js" defer crossorigin="anonymous"></script>
 </svelte:head>
 <div class="mt-12 container mx-auto w-3/4">
     <div
@@ -30,7 +32,7 @@
 		<div class="w-96   mx-auto flex justify-center mt-12    ">
 			<div>
 				<img src="/images/morxemplum_face.webp" class="mx-auto rounded-xl shadow-lg" alt="Gamewebcam face" />
-				<figure class="text-center text-white font-thin italic mt-2">GameWebcam</figure>
+				<figure class="text-center text-white font-thin italic mt-2">Follow me on my social media accounts!</figure>
 				<div class="flex gap-2 justify-center items-center text-xl">
 					<a href="https://www.youtube.com/user/gamewebcam/"
 						><div
