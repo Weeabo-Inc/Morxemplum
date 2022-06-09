@@ -1,3 +1,3 @@
-<div class="flex items-center h-screen justify-center">
-    <div class="text-5xl font-bold"></div>
+<div class="flex items-center justify-center w-screen text-[100px] fixed h-screen text-white font-extrabold">
+    COMING SOON!
 </div>
