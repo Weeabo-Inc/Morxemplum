@@ -1,8 +1,8 @@
 <div class="mt-12 container mx-auto w-3/4">
-	<div class="flex">
+	<div class="lg:flex mx-auto">
 		<div class="flex-1">
 			<div
-				class="text-[70px] mx-auto w-max font-bold bg-clip-text text-transparent bg-gradient-to-r from-rose-500 via-indigo-500 to-blue-500"
+				class="text-[70px] w-max font-bold bg-clip-text text-transparent bg-gradient-to-r from-rose-500 via-indigo-500 to-blue-500"
 			>
 				I'm GameWebcam
 			</div>
@@ -22,14 +22,17 @@
 				</p>
 			</div>
 		</div>
-		<div class="w-96  mr-48">
-			<img src="/images/pfp.png" class="rounded-xl shadow-lg" alt="Morxemplum Logo" />
-			<figure class="text-center text-white font-thin italic mt-2">Morxemplum Logo</figure>
-			<a href="https://www.youtube.com/user/gamewebcam/"><div class="p-2 text-center font-extrabold text-lg bg-rose-800 text-white mt-2 rounded">YouTube</div></a>
-			<a href="https://discord.com/invite/DTA9NcTkAp"
-				><div class="p-2 rounded text-center font-extrabold text-lg bg-indigo-800 text-white mt-2">
-					Discord
-				</div></a>
+		<div class="w-96  mr-48 mx-auto flex justify-center">
+            <div>
+                <img src="/images/pfp.png" class="mx-auto rounded-xl shadow-lg" alt="Morxemplum Logo" />
+                <figure class="text-center text-white font-thin italic mt-2">Morxemplum Logo</figure>
+                <a href="https://www.youtube.com/user/gamewebcam/"><div class="p-2 text-center font-extrabold text-lg bg-rose-800 text-white mt-2 rounded">YouTube</div></a>
+                <a href="https://discord.com/invite/DTA9NcTkAp"
+                    ><div class="p-2 rounded text-center font-extrabold text-lg bg-indigo-800 text-white mt-2">
+                        Discord
+                    </div></a>
+            </div>
+
 		</div>
 	</div>
 	<div>
