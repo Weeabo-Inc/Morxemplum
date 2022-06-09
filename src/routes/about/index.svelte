@@ -30,7 +30,7 @@
 		<div class="w-96   mx-auto flex justify-center mt-12    ">
 			<div>
 				<img src="/images/morxemplum_face.webp" class="mx-auto rounded-xl shadow-lg" alt="Gamewebcam face" />
-				<figure class="text-center text-white font-thin italic mt-2">Follow my social media!</figure>
+				<figure class="text-center text-white font-thin italic mt-2">Follow me on my social media accounts!</figure>
 				<div class="flex gap-2 justify-center items-center text-xl">
 					<a href="https://www.youtube.com/user/gamewebcam/"
 						><div
