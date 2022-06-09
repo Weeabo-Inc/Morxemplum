@@ -18,7 +18,7 @@
 	</div>
 	<div class="h-screen">
 		<div class="h-2/4 w-full bg-black">
-			<a href="/other" class="group relative">
+			<a href="/career" class="group relative">
 				<div
 					class="absolute h-full w-full bg-black bg-opacity-0 transition-all duration-200 group-hover:bg-opacity-25 group-hover:brightness-75"
 				/>
