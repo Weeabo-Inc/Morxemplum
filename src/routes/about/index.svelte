@@ -2,14 +2,16 @@
 	<script src="https://kit.fontawesome.com/6fce24faf3.js" crossorigin="anonymous"></script>
 </svelte:head>
 <div class="mt-12 container mx-auto w-3/4">
-	<div class="lg:flex mx-auto">
+    <div
+    class="text-[70px] w-3/4 mx-auto  text-right w-max font-bold bg-clip-text text-transparent bg-gradient-to-r from-rose-500 via-indigo-500 to-blue-500"
+>
+    I'm gamewebcam
+</div>
+	<div class="lg:flex mx-auto gap-12 w-max">
+
 		<div class="flex-1">
-			<div
-				class="text-[70px] w-max font-bold bg-clip-text text-transparent bg-gradient-to-r from-rose-500 via-indigo-500 to-blue-500"
-			>
-				I'm GameWebcam
-			</div>
-			<div class="prose xl:prose-xl mx-auto invert text-justify">
+
+			<div class="prose xl:prose-xl mx-auto invert  text-justify mt-11">
 				<h3>Content Creator and Gamer</h3>
 				<p>
 					Content creator of sandbox, let's plays, open source culture, commentary, and some memes
@@ -25,7 +27,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="w-96  mr-48 mx-auto flex justify-center">
+		<div class="w-96   mx-auto flex justify-center mt-12    ">
 			<div>
 				<img src="/images/morxemplum_face.webp" class="mx-auto rounded-xl shadow-lg" alt="Gamewebcam face" />
 				<figure class="text-center text-white font-thin italic mt-2">GameWebcam</figure>
